@@ -2,7 +2,7 @@
 
 в файле .development.env конфигурация для бд. Добавить свою.
 
-#### npm run start:dev - Запуск
+#### yarn star:dev - Запуск
 
 ##
 
